@@ -1,0 +1,14 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+config.js
+*.config.js
+.browserslistrc
+.eslintignore
+.gitignore
+package.json
+package-lock.json
+tsconfig.json
+**/assets/*
